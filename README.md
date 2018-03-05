@@ -4,7 +4,6 @@ This repository is a template for JS projects. [Themes of final projects](https:
 
 Once your project is done, you can notify us [here](https://docs.google.com/forms/d/e/1FAIpQLSd5inoVWvIojvtP3GJDmGVXQvty905qLk7i3XCTKz5SFG_OBw/viewform).
 
-
 ## Get started ##
 
 ### Install all dependencies
