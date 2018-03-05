@@ -1,4 +1,4 @@
-# JS Project Template [![Build Status](https://travis-ci.org/avg206/js-project-template.svg?branch=master)](https://travis-ci.org/avg206/js-project-template)
+# JS Project Template [![Build Status](https://travis-ci.org/it-shark-pro/js-project-template.svg?branch=master)](https://travis-ci.org/it-shark-pro/js-project-template)
 
 This repository is a template for JS projects. [Themes of final projects](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/final_projects.md).
 
