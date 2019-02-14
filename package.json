@@ -21,7 +21,16 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
     "jest": "^22.4.2",
+    "lodash": "^4.17.11",
     "stylelint": "^9.1.1",
     "stylelint-config-standard": "^18.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowereyed/js-project-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flowereyed/js-project-template/issues"
+  },
+  "homepage": "https://github.com/flowereyed/js-project-template#readme"
 }
