@@ -1,11 +1,6 @@
-const app = () => {
-  console.log('Hey, hello!')
-}
+import _ from 'lodash';
 
-app()
 
-export default app
-var _ = require('lodash');
 var names = ['Bruce Wayne', 'Wally West', 'John Jones', 'Kyle Rayner', 'Arthur Curry', 'Clark Kent'];
 var otherNames = ['Barry Allen', 'Hal Jordan', 'Kara Kent', 'Diana Prince', 'Ray Palmer', 'Oliver Queen'];
 _.each([names, otherNames], function(nameGroup) {
