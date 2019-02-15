@@ -1,6 +1,8 @@
 const app = () => {
-
+  console.log('Hey, hello!')
 }
+
+app()
 
 export default app
 var _ = require('lodash');

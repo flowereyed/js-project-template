@@ -1,16 +1,16 @@
 {
   "name": "js-project-template",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Basic JS template",
   "main": "src/index.js",
   "author": "Anatoli Huseu (avg.tolik@gmail.com)",
   "license": "MIT",
   "scripts": {
-    "start": "node ./src/index.js",
+    "start": "npx babel-node ./src/index.js",
     "lint": "npm run lint:styles && npm run lint:js",
-    "lint:js": "eslint ./src",
-    "lint:styles": "stylelint 'src/**/*.css'",
-    "test": "jest"
+    "lint:js": "npx eslint ./src",
+    "lint:styles": "npx stylelint 'src/**/*.css'",
+    "test": "npx jest"
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
