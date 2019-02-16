@@ -6,7 +6,8 @@
   "author": "Anatoli Huseu (avg.tolik@gmail.com)",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start:dev": "webpack-dev-server"
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
